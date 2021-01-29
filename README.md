@@ -8,6 +8,8 @@
 
 Vindo do Design Gráfico comecei a brincar com programação frontend em 2018 e desde então vivo numa vida dupla entre ambos.
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelpna&layout=compact&theme=radical)](https://github.com/Emanuelpna/)
 
 ---
